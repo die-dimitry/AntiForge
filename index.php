@@ -37,7 +37,7 @@
       <div class="loginformcard" id="card1">
             <h4> Welcome to AntiForge - DApp</h4>
             <p style="max-width: 80%;">
-            AntiForge is a Decentralized E2E Logistics Application that stores the whereabouts of product at every freight hub on the Blockchain. At consumer end, customers can simply scan the QR CODE of products and get complete information about the provenance of that product hence empowering consumers to only purchase authentic and quality products.
+            The location of each product at each goods hub is recorded by AntiForge, a decentralised E2E logistics application, on the Blockchain. Customers may quickly and easily scan a product's QR code to obtain detailed information about its origin, enabling them to only buy genuine and high-quality goods.git 
             </p>
                 <div class="cardbtnarea">
                     <button class="col-md-5 rolebtn" id="login">Login</button>
